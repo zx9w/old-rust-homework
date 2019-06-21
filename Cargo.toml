@@ -1,0 +1,9 @@
+[package]
+name = "vika5"
+version = "0.1.0"
+authors = ["ilmu"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
+num-traits = "0.2.6"
